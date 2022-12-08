@@ -1,0 +1,14 @@
+{
+  "name": "thrift5621",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "fox888 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ fox888 เว็บคาสิโนออนไลน์ เว็บใหญ่ บริการเกมคาสิโนที่ดีที่สุด 2023",
+  "keywords": [
+    "fox888 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ fox888 เว็บคาสิโนออนไลน์ เว็บใหญ่ บริการเกมคาสิโนที่ดีที่สุด 2023"
+  ],
+  "repository": "https://github.com/yorkinyellow/thrift5621",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
